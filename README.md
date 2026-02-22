@@ -1,39 +1,41 @@
-Naafiul Hossain – Portfolio Website
+# Naafiul Hossain — Engineering Portfolio
 
-This repository contains the source code for my personal engineering portfolio website. The site highlights my experience, projects, and technical background as a Computer Engineering student and Software Engineer.
+This repository contains the source code for my personal engineering portfolio website. It showcases my experience, embedded systems projects, FPGA work, and technical background as a Computer Engineering student at Stony Brook University.
 
-🌐 Live Website
+## 🌐 Live Website
 
-(Coming soon via GitHub Pages)
+**View Portfolio:**  
+https://naafiulhossainportfolio.netlify.app/
 
-📌 About
+---
 
-This portfolio was designed and developed from scratch using HTML, CSS, and JavaScript to showcase:
+## 📌 About
 
-Professional experience
+This portfolio was designed and developed from scratch using HTML, CSS, and JavaScript to highlight:
 
-Engineering projects
+- Embedded systems and firmware projects  
+- FPGA and computer architecture work  
+- Software and full-stack development  
+- Professional experience in semiconductor, defense, and tech industries  
+- Resume and contact information  
 
-Technical skills
+---
 
-Resume and contact information
+## ⚙️ Features
 
-The website includes interactive UI elements such as:
+- Responsive design for desktop and mobile
+- Interactive project cards
+- Scroll-based animations
+- Resume download integration
+- Clean, modern UI
 
-Scroll-based animations using Intersection Observer
+---
 
-Dynamic experience tabs
+## 🛠 Technologies Used
 
-Responsive layout for desktop and mobile
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)  
+- Git & GitHub  
+- Netlify (Deployment)
 
-Modern and minimal design
-
-🛠 Technologies Used
-
-HTML5
-
-CSS3
-
-JavaScript (Vanilla)
-
-Git & GitHub
